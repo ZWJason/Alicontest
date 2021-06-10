@@ -1,9 +1,11 @@
 # Quick Start
+主要代码位于/nvm_engine中。
+
 在bash中输入
 ```
 ./quickStart.sh 
 ```
-生成的可执行文件位于/judge中
+生成的可执行文件位于/judge中。
 # 代码设计
 ## 1.数据实体设计
 ![avatar](/img/1.png)
